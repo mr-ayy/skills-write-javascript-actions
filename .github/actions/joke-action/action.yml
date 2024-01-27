@@ -1,4 +1,4 @@
-name: "my joke action"
+name: "My Joke Action"
 
 description: "use an external API to retrieve and display a joke"
 
