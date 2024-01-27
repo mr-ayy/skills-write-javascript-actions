@@ -2,6 +2,10 @@ name: "My Joke Action"
 
 description: "use an external API to retrieve and display a joke"
 
+branding:
+  icon: anchor
+  color: purple
+
 runs:
   using: "node16"
   main: "main.js"
